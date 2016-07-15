@@ -1,0 +1,28 @@
+/*//Global Page Styles//*/
+
+body {
+	background-color: #a9a9a9;
+	font-family: Helvetica, Arial, sans-serif;;
+	margin:0;
+}
+
+.container {
+	background-color: #fff;
+	margin: 0 auto;
+	width: 1000px;
+}
+
+main {
+	padding: 20px;
+}
+
+h1 {
+	font-size:44px;
+	color: grey;
+	margin: 0;
+}
+
+/*Header Styles////////////////*/
+/**This is unfinished finish the code and make sure the colors
+work together**/
+
