@@ -19,12 +19,12 @@
 			<!-- Enter header here -->
 			<header>
 				<h1>My name is Giles Sandoval</h1>
-				<p>A Little Bit About Me</p>
+				<h2>A Little Bit About Me</h2>
 			</header>
 
 			<!-- Start main content here -->
 			<main>
-				<p>I grew up in San Felipe Pueblo in a big family. I'm the oldest of many brothers, sisters, and close cousins. I went to high school, college, and have had many fun jobs prior to this class. I've been a chef, a paramedic, a store manager, a director of a team, a mentor, and a coach. I've had other important jobs, such as working as a janitor, busser, and dishwasher. Those jobs taught me the importance of hard work. Here's where I'm at now...</p>
+				<p>I grew up in San Felipe Pueblo, NM in a big family. I'm the oldest of many brothers, sisters, and close cousins. I went to high school, college, and have had many fun jobs prior to this class. I've been a chef, a paramedic, a store manager, a director of a team, a mentor, and a coach. I've had other important jobs, such as working as a janitor, busser, and dishwasher. :D Those jobs taught me the importance of hard work. Here's where I'm at now...</p>
 				<h2>Husband, Father, Runner, and Future Developer</h2>
 				<h3>Married on August 22, 2015</h3>
 				<img class="flt-center" src="images/bandg.jpg" alt="marriage photo" />
@@ -66,13 +66,13 @@
 
 				<!-- Placing unordered list-->
 				<ul>
-					<li>It's a challenge. It requires patience, teamwork, and persistence. I'm ready, bring it on.</li>
+					<li>It's a challenge. It requires patience, teamwork, and persistence. And I'm ready, so bring it on.</li>
 					<li>Having an idea and then using it to change the world. That's what I hope to do in this field.</li>
 					<li>Because "software is about humanity. It's about helping people." -Someone smarter than me :)</li>
 				</ul>
 
 				<!-- Consider inserting a link here -->
-				<p>For an inspiring message from the creators of Valve, facebook, Microsoft, Clothia.com, and Twitter...Click the link below. </p>
+				<p>For an inspiring message for future coders from the creators of Valve, facebook, Microsoft, Clothia.com, and Twitter...Click the link below. </p>
 				<div>
 					<a href="https://www.youtube.com/watch?v=OWsyrnOBsJs" target="_blank">Computer Programming | A short interesting film</a>
 				</div>

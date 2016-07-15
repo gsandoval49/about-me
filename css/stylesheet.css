@@ -25,4 +25,32 @@ h1 {
 /*Header Styles////////////////*/
 /**This is unfinished finish the code and make sure the colors
 work together**/
+header {
+	background-color: black;
+	color: cadetblue;
+	height: 100px;
+	padding: 20px;
+}
 
+/*Footer styles
+I'm also adding this for fun////////*/
+footer {
+	background-color: black;
+	color: cadetblue;
+	height: 80px;
+	padding: 20px;
+}
+
+/*Form Styles input
+I put this here as an example. this would go here
+if I had text area or input forms to put in, but I don't////
+td {
+	padding: 5px
+}
+
+textarea {
+	width: 300px;
+	height: 200px;
+}
+
+////////////////////*/
