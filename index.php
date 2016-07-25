@@ -1,15 +1,21 @@
 <!DOCTYPE html>
 <html lang="en">
 		<head>
+			<!-- google fonts -->
+			<link href='https://fonts.googleapis.com/css?family=Hind|Alegreya+Sans' rel='stylesheet' type='text/css'>
+
 			<meta charset="utf-8" />
-			
+
 			<!-- Adding custom CSS -->
 			<link href="css/stylesheet.css" rel="stylesheet" type"text/css" />
 			
 			<!-- Adding custom JavaScript-->
+			<!-- TODO I didn't end up using JavaScript
+			-----for this project, but it's there
+			-----when I'm ready to play around with it-->
 			<script src="js/custom.js" type="text/javascript"></script>
 
-			<title>A Little Bit About Me</title>
+			<title>A Few Bytes About Me</title>
 		</head>
 		<body>
 
@@ -19,7 +25,8 @@
 			<!-- Enter header here -->
 			<header>
 				<h1>My name is Giles Sandoval</h1>
-				<h2>A Little Bit About Me</h2>
+				<h2>A Few Bytes About Me</h2>
+				<h3>Husband, Father, Brother, Runner & Developer</h3>
 			</header>
 
 			<!-- Start main content here -->
@@ -60,7 +67,7 @@
 				</ul>
 
 				<!-- Developer part-->
-				<!-- STILL NEED TO ADD IMAGE HERE -->
+				<!-- Image taken from ... -->
 				<h3>Future Web Developer. Why?</h3>
 				<img class="flt-center" src="images/awesomeidea.jpg" alt="developer photo" />
 

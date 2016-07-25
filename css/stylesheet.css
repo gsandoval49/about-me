@@ -1,10 +1,13 @@
 /*//Global Page Styles//*/
 
+/*--- deactivating this for now in attempt to use google fonts in html ---*/
+
 body {
 	background-color: #a9a9a9;
-	font-family: Helvetica, Arial, sans-serif;;
+	font-family: 'Alegreya Sans', sans-serif;;
 	margin:0;
 }
+
 
 .container {
 	background-color: #fff;
